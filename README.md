@@ -1,7 +1,7 @@
 ## Masoom Raza Ansari
 
 ## Overview
-Welcome to my README! I am **Masoom Raza Aansari**, a passionate **Full Stack Python Developer** with a strong mastery in **SQL**. My expertise lies in creating robust and scalable web applications, utilizing both front-end and back-end technologies.
+Welcome to my README! I am **Masoom Raza Ansari**, a passionate **Full Stack Python Developer** with a strong mastery in **SQL**. My expertise lies in creating robust and scalable web applications, utilizing both front-end and back-end technologies.
 
 ## Skills
 ### Programming Languages
@@ -14,7 +14,7 @@ Welcome to my README! I am **Masoom Raza Aansari**, a passionate **Full Stack Py
 - **JavaScript**: Proficient in creating dynamic user interfaces and enhancing user experience.
 
 ### Back-End Development
-- **Frameworks**: Experienced with frameworks such as Django and Flask for developing server-side logic.
+- **Frameworks**: Experienced with frameworks such as Django for developing server-side logic.
 - **Database Management**: Proficient in working with databases like MySQL, PostgreSQL, and MongoDB.
 
 ### Deployment & Tools
@@ -31,6 +31,7 @@ As a Full Stack Python Developer, I have successfully designed, developed, and d
 ## Contact Information
 Feel free to reach out to me for collaboration or inquiries:
 - Email: [masoomansari0786@gmail.com](mailto:masoomansari0786@gmail.com)
+- LinkedIn: [Masoom Raza Ansari](https://www.linkedin.com/in/masoom-raza-ansari-7482511b7/)
 
 ## Current Projects
 I am continuously working on personal projects to enhance my skills and stay updated with the latest technologies in web development. 
