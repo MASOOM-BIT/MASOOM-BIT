@@ -7,6 +7,7 @@ Welcome to my README! I am **Masoom Raza Ansari**, a passionate **Full Stack Pyt
 ### Programming Languages
 - **Python**: Proficient in core Python programming principles, including data types, control structures, and object-oriented programming.
 - **SQL**: Mastery in writing complex queries and managing relational databases.
+- ETLs Warehousing and Analytics Reports
 
 ### Front-End Development
 - **HTML**: Skilled in structuring web content.
