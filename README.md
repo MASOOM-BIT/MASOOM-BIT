@@ -20,8 +20,8 @@ Welcome to my README! I am **Masoom Raza Ansari**, a passionate **Full Stack Pyt
 - **Database Management**: Proficient in working with databases like MySQL, PostgreSQL, and MongoDB.
 
 ### Deployment & Tools
-- Familiar with web servers such as **Apache** and **NGINX**.
-- Experience with version control systems like **Git**.
+- Familiar with web servers such as **Apache**.
+- Experience with version control systems like **Git** , **SVN**.
 - Knowledge of cloud services for application deployment.
 
 ## Professional Experience
