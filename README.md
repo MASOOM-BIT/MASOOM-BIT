@@ -27,7 +27,7 @@ Welcome to my README! I am **Masoom Raza Ansari**, a passionate **Full Stack Pyt
 ## Professional Experience
 As a Full Stack Python Developer, I have successfully designed, developed, and deployed various web applications. My role involves:
 - Collaborating with clients to understand their requirements and delivering tailored solutions.
-- Developing responsive user interfaces that are both functional and aesthetically pleasing degin.
+- Developing responsive user interfaces that are both functional and aesthetically pleasing.
 - Building robust back-end systems that ensure data integrity and security.
 
 ## Contact Information
