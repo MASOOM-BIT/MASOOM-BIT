@@ -1,7 +1,7 @@
 ## Masoom Raza Ansari
 
 ## Overview
-Welcome to my README! I am **Masoom Raza Ansari**, a passionate **Full Stack Python Developer** with a strong mastery in **SQL**. My expertise lies in creating robust and scalable web applications, utilizing both front-end and back-end technologies.
+I am **Masoom Raza Ansari**, a passionate **Full Stack Python Developer** with a strong mastery in **SQL**. My expertise lies in creating robust and scalable web applications, utilizing both front-end and back-end technologies.
 
 ## Skills
 ### Programming Languages
@@ -12,7 +12,7 @@ Welcome to my README! I am **Masoom Raza Ansari**, a passionate **Full Stack Pyt
 ### Front-End Development
 - **HTML**: Skilled in structuring web content.
 - **CSS**: Experienced in styling and layout design.
-- **JavaScript**: Proficient in creating dynamic user interfaces and enhancing user experience.
+- **JavaScript**: Proficient in creating dynamic user interfaces and enhancing user experience. Also basic profeciency in jQuery.
 
 ### Back-End Development
 - Python for backend Development
