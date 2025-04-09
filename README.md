@@ -20,7 +20,7 @@ I am **Masoom Raza Ansari**, a passionate **Full Stack Python Developer** with a
 - **Database Management**: Proficient in working with databases like MySQL, PostgreSQL, and MongoDB.
 
 ### Deployment & Tools
-- Familiar with web servers such as **Apache**.
+- Future scope to Learn AWS deployment 
 - Experience with version control systems like **Git** , **SVN**.
 - Knowledge of cloud services for application deployment.
 
